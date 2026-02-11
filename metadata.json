@@ -1,0 +1,5 @@
+{
+  "name": "FileDuck",
+  "description": "An intelligent AI-powered file assistant featuring a friendly duck mascot. Upload files, analyze content, and chat with your documents using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
